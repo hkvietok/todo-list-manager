@@ -1,4 +1,4 @@
-# todo-list-manager
+# To-Do List Manager
 Final Project for CSCI 2270: Data Structures 
 
 To-Do List for Managing Tasks Sorted by Urgency
