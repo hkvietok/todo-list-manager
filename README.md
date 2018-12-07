@@ -14,3 +14,4 @@ I also used a number of other data structures in a smaller capacity throughout m
 I thought it would be a neat feature to add the time at which each to-do task was created by the user. We had not learned this is in class so I researched online and utilize a piece of code from: https://stackoverflow.com/a/16358224. This allowed me to include when exactly the to-do was created, so a user can notice if they made their to-do a long time ago.
 
 **Methodology and Design:**
+![alt text](https://github.com/hkvietok/todo-list-manager/blob/master/CS%20FInal.png?raw=true)
