@@ -1,0 +1,319 @@
+SAMPLE RUN THROUGH OF PROGRAM
+
+
+C:\Users\hkvie\Desktop\final>.\what todo.txt
+Welcome to your To-Do List!
+Current: 0
+Completed: 0
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+6
+Enter Urgency (1-10):
+8
+Enter Note:
+Calc HW
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+6
+Enter Urgency (1-10):
+10
+Enter Note:
+CS Assignment
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+6
+Enter Urgency (1-10):
+7
+Enter Note:
+Physics HW
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+6
+Enter Urgency (1-10):
+Essay
+Invalid Input :(
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+6
+Enter Urgency (1-10):
+2
+Enter Note:
+Essay
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+3
+Task: CS Assignment
+Urgency: 10
+Time Created: Fri Dec 07 11:38:04 2018
+
+
+Task: Calc HW
+Urgency: 8
+Time Created: Fri Dec 07 11:37:50 2018
+
+
+Task: Physics HW
+Urgency: 7
+Time Created: Fri Dec 07 11:38:19 2018
+
+
+Task: Essay
+Urgency: 2
+Time Created: Fri Dec 07 11:38:35 2018
+
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+7
+
+Random To-Do:
+===========
+Urgency: 8
+Task: Calc HW
+Time Created: Fri Dec 07 11:37:50 2018
+
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+7
+
+Random To-Do:
+===========
+Urgency: 2
+Task: Essay
+Time Created: Fri Dec 07 11:38:35 2018
+
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+8
+
+Most Urgent To-Do:
+===========
+Urgency: 10
+Task: CS Assignment
+Time Created: Fri Dec 07 11:38:04 2018
+
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+4
+Enter Urgency (1-10):
+10
+Enter Note:
+CS Assignment
+Task Completed. Nice Job!
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+3
+Task: Calc HW
+Urgency: 8
+Time Created: Fri Dec 07 11:37:50 2018
+
+
+Task: Physics HW
+Urgency: 7
+Time Created: Fri Dec 07 11:38:19 2018
+
+
+Task: Essay
+Urgency: 2
+Time Created: Fri Dec 07 11:38:35 2018
+
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+9
+Saving your To-List...
+To-Do List saved to file. Goodbye!
+
+C:\Users\hkvie\Desktop\final>.\what todo.txt
+Welcome to your To-Do List!
+Current: 3
+Completed: 1
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+3
+Task: Calc HW
+Urgency: 8
+Time Created: Fri Dec 07 11:37:50 2018
+
+Task: Physics HW
+Urgency: 7
+Time Created: Fri Dec 07 11:38:19 2018
+
+Task: Essay
+Urgency: 2
+Time Created: Fri Dec 07 11:38:35 2018
+
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+9
+Saving your To-List...
+To-Do List saved to file. Goodbye!
+
+C:\Users\hkvie\Desktop\final>.\what todo.txt
+Welcome to your To-Do List!
+Current: 3
+Completed: 1
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+ee
+Incorrect Menu Input. Try again:
+1
+Enter Urgency (1-10):
+23
+Invalid Input :(
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+1
+Enter Urgency (1-10):
+2
+Enter Note:
+wewdfsdf
+To-Do not found.
+======Main Menu======
+1. Find a Task
+2. Edit a Task
+3. View All Tasks
+4. Complete a Task
+5. View Task Count
+6. Add a Task
+7. Random Task
+8. Most Urgent
+9. Exit and Save
+
+Incorrect Menu Input. Try again:
+9
+Saving your To-List...
+To-Do List saved to file. Goodbye!
+
+C:\Users\hkvie\Desktop\final>
